@@ -1,0 +1,6 @@
+/Users/c/Desktop/laboratorio-06-cristobalneira/Proyecto6Neira/Proyecto6Neira/bin/Debug/Proyecto6Neira.exe
+/Users/c/Desktop/laboratorio-06-cristobalneira/Proyecto6Neira/Proyecto6Neira/bin/Debug/Proyecto6Neira.pdb
+/Users/c/Desktop/laboratorio-06-cristobalneira/Proyecto6Neira/Proyecto6Neira/obj/Debug/Proyecto6Neira.csprojAssemblyReference.cache
+/Users/c/Desktop/laboratorio-06-cristobalneira/Proyecto6Neira/Proyecto6Neira/obj/Debug/Proyecto6Neira.csproj.CoreCompileInputs.cache
+/Users/c/Desktop/laboratorio-06-cristobalneira/Proyecto6Neira/Proyecto6Neira/obj/Debug/Proyecto6Neira.exe
+/Users/c/Desktop/laboratorio-06-cristobalneira/Proyecto6Neira/Proyecto6Neira/obj/Debug/Proyecto6Neira.pdb

@@ -3,25 +3,14 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="Proyecto6Neira/Program.cs">
     <Files>
       <File FileName="Proyecto6Neira/Empresa.cs" Line="12" Column="36" />
-      <File FileName="Proyecto6Neira/Division.cs" Line="11" Column="49" />
-      <File FileName="Proyecto6Neira/Area.cs" Line="11" Column="47" />
-      <File FileName="Proyecto6Neira/Departamento.cs" Line="14" Column="42" />
-      <File FileName="Proyecto6Neira/Seccion.cs" Line="14" Column="37" />
-      <File FileName="Proyecto6Neira/Bloque.cs" Line="18" Column="1" />
-      <File FileName="Proyecto6Neira/Persona.cs" Line="28" Column="48" />
+      <File FileName="Proyecto6Neira/Division.cs" />
+      <File FileName="Proyecto6Neira/Area.cs" />
+      <File FileName="Proyecto6Neira/Departamento.cs" />
+      <File FileName="Proyecto6Neira/Seccion.cs" />
+      <File FileName="Proyecto6Neira/Bloque.cs" />
+      <File FileName="Proyecto6Neira/Persona.cs" />
       <File FileName="Proyecto6Neira/Program.cs" Line="67" Column="47" />
     </Files>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="Proyecto6Neira" expanded="True">
-            <Node name="Proyecto6Neira" expanded="True">
-              <Node name="Program.cs" selected="True" />
-            </Node>
-          </Node>
-        </State>
-      </Pad>
-    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
