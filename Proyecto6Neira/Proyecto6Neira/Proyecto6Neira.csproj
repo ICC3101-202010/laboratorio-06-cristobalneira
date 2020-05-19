@@ -39,6 +39,7 @@
     <Compile Include="Area.cs" />
     <Compile Include="Seccion.cs" />
     <Compile Include="Bloque.cs" />
+    <Compile Include="MetodoEstatico.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
